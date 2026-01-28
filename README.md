@@ -9,3 +9,6 @@
 This is a work in progress. APIs, guarantees, and scope may evolve as the project matures.
 
 ## Libraries Implemented
+
+1. [`ns_io`](https://github.com/NextStd/ns_io) : An alternative to `stdio.h`
+
